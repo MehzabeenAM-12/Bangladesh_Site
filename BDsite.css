@@ -1,0 +1,36 @@
+body{
+    /*  background-color:beige; */
+      padding:50px; 
+    }
+    
+    button{
+      background-color:beige;
+    } 
+    
+    #topheader{
+      color:red;
+      font-family:fantasy;
+      font-size:30px;
+    }
+    
+    #flag{
+      text-align:center;
+    }
+    
+    
+    #mehz{
+      text-align:right;
+    }
+    
+    
+      /* width: 200px; */
+      /* border: 2px solid black; */
+    /*  display: flex; */ 
+    /* justify-content: center; */
+    
+    
+    
+    
+    
+    
+    
